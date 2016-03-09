@@ -1,0 +1,28 @@
+name: Streaming Media Truth
+favicon: null
+layout_spectrum: 0.44230646546930075
+typography_spectrum: 0.2247377026360482
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6410340580623597
+  lightness: 0.45270174997858703
+  saturation: 0.32478548283688724
+  rhythmicContrast: 0.8919324122834951
+purpose: []
